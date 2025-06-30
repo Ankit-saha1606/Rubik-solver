@@ -1,16 +1,3 @@
-/**
- * min2phaseCXX Copyright (C) 2022 Borgo Federico
- * This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
- * This is free software, and you are welcome to redistribute it
- * under certain conditions; type `show c' for details.
- *
- * This file contains a lot of useful function for the cube.
- * There is the random cube generator, the converter from a moves string to a cube,
- * the benchmarking, the tests, the verify that chek if a cube is solvable and a
- * super flip generator.
- */
-
-
 #ifndef MIN2PHASE_TOOLS_H
 #define MIN2PHASE_TOOLS_H 1
 
