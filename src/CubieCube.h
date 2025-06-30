@@ -1,13 +1,3 @@
-/**
- * min2phaseCXX Copyright (C) 2022 Borgo Federico
- * This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
- * This is free software, and you are welcome to redistribute it
- * under certain conditions; type `show c' for details.
- *
- * This file contains the class that contains a cube.
- * It has method that computes the coordinates to increase the speed of the algorithm.
- * This class contains also the output formatter for the algorithm.
- */
 
 #ifndef MIN2PHASE_CUBIECUBE_H
 #define MIN2PHASE_CUBIECUBE_H 1
