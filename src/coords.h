@@ -1,9 +1,5 @@
 /**
- * min2phaseCXX Copyright (C) 2022 Borgo Federico
- * This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
- * This is free software, and you are welcome to redistribute it
- * under certain conditions; type `show c' for details.
- *
+ 
  * This file contains all the necessary for the coordinates.
  * This compute all the coordinates and symmetries
  * necessary for the algorithm.
